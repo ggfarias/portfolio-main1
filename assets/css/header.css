@@ -56,23 +56,23 @@
 }
 
 .information .worker::before {
-    background-image: url('/assets/img/icons/icon-worker.svg');
+    background-image: url('../img/icons/icon-worker.svg');
 }
 
 .information .location::before {
-    background-image: url('/assets/img/icons/icon-location.svg');
+    background-image: url('../img/icons/icon-location.svg');
 }
 
 .information .phone::before {
-    background-image: url('/assets/img/icons//icon-phone.svg');
+    background-image: url('../img/icons//icon-phone.svg');
 }
 
 .information .email::before {
-    background-image: url('/assets/img/icons/icon-email.svg');
+    background-image: url('../img/icons/icon-email.svg');
 }
 
 .information .linkedin::before {
-    background-image: url('/assets/img/icons/linkedin.svg');
+    background-image: url('../img/icons/linkedin.svg');
 }
 
 @media only screen and (min-width: 768px) {
