@@ -11,23 +11,23 @@
       "hardSkills": [
         {
           "name": "HTML5",
-          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4f/assets/img/icons/languages/html.svg"
+          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4fassets/img/icons/languages/html.svg"
         },
         {
           "name": "CSS3",
-          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4f/assets/img/icons/languages/css.svg"
+          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4fassets/img/icons/languages/css.svg"
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4f/assets/img/icons/languages/js.svg"
+          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4fassets/img/icons/languages/js.svg"
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4f/assets/img/icons/languages/react.svg"
+          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4fassets/img/icons/languages/react.svg"
         },
         {
           "name": "GitHub",
-          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4f/assets/img/icons/languages/github.svg"
+          "logo": "https://raw.githubusercontent.com/ggfarias/portfolio-main/bde7ca49e228c874184253759bc50ce7c177bc4fassets/img/icons/languages/github.svg"
         }
       ],
       "description": [

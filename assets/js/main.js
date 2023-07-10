@@ -26,9 +26,9 @@ function updateProfileInfo(profileData) {
     linkedin.href = `link:${profileData.linkedin}`
 }
 
-function updateProfileDescription(profileData) {
-    const description = document.getElementById('profile.skills.description')
-    description.innerHTML = profileData.skills.description.map(description => `<li>${description}</li>`).join('')
+function updateSoftSkills(profileData) {
+    const softSkills = document.getElementById('profile.skills.softSkills')
+    softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')
 }
 
 function updateHardSkills(profileData) {
@@ -69,7 +69,7 @@ function updateProfessionalExperience(profileData) {
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
-    updateProfileDescription(profileData)
+    updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateLanguages(profileData)
     updatePortfolio(profileData)
